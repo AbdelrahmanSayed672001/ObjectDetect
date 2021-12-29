@@ -1,0 +1,80 @@
+person
+bicycle
+car
+motorbike
+aeroplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+cat
+horse
+dog
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+road
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+carrot
+fork
+knife
+spoon
+bowl
+cup
+hot dog
+sandwich
+orange
+broccoli
+banana
+apple
+pizza
+donut
+cake
+chair
+sofa
+pottedplant
+bed
+diningtable
+window
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+scissors
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+cell phone
+teddy bear
+hair drier
+toothbrush
